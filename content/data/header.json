@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Services",
             "altText": "Careers page",
             "url": "/services",
             "icon": "arrowRight",
