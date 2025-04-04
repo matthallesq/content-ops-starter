@@ -1,5 +1,5 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: Off with their heads!
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: >-
