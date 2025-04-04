@@ -3,10 +3,11 @@ title: Is there value in Customer Journey Maps?
 slug: case-study-1
 date: '2019-01-09'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Having personally developed many customer journey maps (from both hypotheses
+  and deep customer research) I’m curious why some clients seem to skip over
+  them? Is it because they are uncertain how to use journey maps and therefore
+  unsure how to unlock all the value out of them? Here are some of my thoughts
+  on what they can be used for and why that is valuable.
 featuredImage:
   url: /images/pic06.webp
   altText: 'journey maps '
