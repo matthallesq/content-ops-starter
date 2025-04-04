@@ -1,10 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/Lenzify-Logo.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -89,6 +91,6 @@
         }
     ],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Header"
 }
