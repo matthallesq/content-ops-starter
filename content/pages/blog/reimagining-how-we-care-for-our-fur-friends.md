@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Re-imagining how we care for our fur friends
-date: '2015-02-12'
+date: ''
 author: content/data/person1.json
 excerpt: >-
   In the not too distant future, telehealth (health care over telecommunication
