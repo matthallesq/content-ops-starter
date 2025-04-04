@@ -89,6 +89,8 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
+![](/images/pic06.webp)
+
 Having personally developed many customer journey maps (from both hypotheses and deep customer research) I’m curious why some clients seem to skip over them? Is it because they are uncertain how to use journey maps and therefore unsure how to unlock all the value out of them? Here are some of my thoughts on what they can be used for and why that is valuable.
 
 Customer journey maps are a type of blueprint used to orchestrate, illustrate and communicate a customer experience. They have become crucial assets in any digital transformation program due to their multitude of uses and often value beyond their immediate need. Much of their versatility lies in being flexible enough to expose the entire customer lifecycle or just one of their component parts to a developer or CEO alike.
@@ -126,4 +128,3 @@ As a part of customer research, pinpointing the moments of truth giving you get 
 If you go on to dive into a service design blueprint the customer journey can be used to show the customer in context of the people, processes and platforms used to orchestrate the experience.
 
 If you’re procuring any platforms and services, customer journey maps are a great addition to an RFP/Q to illustrate what some of your requirements might be, your prospective partners will be grateful and hopefully provide a clear response.
-
