@@ -39,7 +39,7 @@ JAMstack (short for JavaScript, APIs, and Markdown) achieves this by pre-renderi
 
 ## Why Go Headless?
 
-### **1. Performance**
+### 1. Performance
 
 With advancements in digital technologies, dynamically generated web pages became the norm. While this enabled feature-rich experiences, it also introduced performance bottlenecks, particularly for CMS/eCommerce/CRM platforms that rely on web or application servers to serve functions and user interfaces on request. When hundreds or thousands of requests run in parallel, performance takes a hit.
 
@@ -49,11 +49,11 @@ I recently tested a major Australian grocery retailer’s website, and their Goo
 
 With JAMstack, sites eliminate the need to generate pages dynamically at request time. Instead, pages are built in advance and served from a CDN close to the user, ensuring lightning-fast performance without complex infrastructure.
 
-### **2. Security**
+### 2. Security
 
 By eliminating the need for web servers, JAMstack sites significantly reduce attack surfaces. Traditional CMS platforms like WordPress rely on databases and server-side logic, making them susceptible to vulnerabilities like SQL injection and DDoS attacks. A headless approach removes these risks by serving static files and shifting dynamic functionality to secure APIs and third-party services.
 
-### **3. Scalability**
+### 3. Scalability
 
 For large organizations, enterprise software investments often become a burden, requiring costly upgrades with little added value beyond maintaining vendor support. Headless technologies provide an escape route from these constraints. Instead of being locked into monolithic systems, companies can modernize incrementally—retaining legacy CMS or eCommerce platforms for core functions while leveraging APIs to integrate new front-end technologies.
 
@@ -65,11 +65,11 @@ The benefits include:
 
 *   Improved agility, allowing businesses to adapt to changing market needs faster.
 
-### **4. Cost Savings & Environmental Benefits**
+### 4. Cost Savings & Environmental Benefits
 
 Static sites require fewer server resources, leading to lower hosting costs and reduced energy consumption. By leveraging CDNs and edge computing, companies can deliver fast, secure experiences while minimizing their carbon footprint.
 
-### **5. Developer Efficiency & Workflow Improvements**
+### 5. Developer Efficiency & Workflow Improvements
 
 Good development practices are inherent to JAMstack. Since static sites require proper build processes and version control, the result is:
 
@@ -83,19 +83,19 @@ The ability for digital agencies to own and manage the front-end layer independe
 
 While the benefits are clear, headless architectures aren’t without challenges:
 
-### **Browser Support & Compatibility**
+### Browser Support & Compatibility
 
 Some modern frameworks require polyfills or workarounds to ensure compatibility across all browsers.
 
-### **Scalability at Extreme Levels**
+### Scalability at Extreme Levels
 
 While JAMstack scales well for most use cases, some enterprises with complex personalization needs may require additional infrastructure.
 
-### **Developer-Centric Approach**
+### Developer-Centric Approach
 
 Headless CMSs require technical expertise to configure and maintain, which can be a hurdle for non-technical teams.
 
-### **Accessibility & Feature Gaps**
+### Accessibility & Feature Gaps
 
 Some headless CMS platforms fall short in managing complex product catalogues (e.g., multiple variants like colors and sizes), but you probably should be using an e-commerce solution for catalogue management.
 
@@ -104,4 +104,3 @@ Some headless CMS platforms fall short in managing complex product catalogues (e
 Headless CMS and JAMstack architectures offer a compelling future-proof solution for web development. By decoupling content from presentation, businesses gain flexibility, security, and performance benefits that traditional monolithic systems can’t match.
 
 Whether you’re looking to modernize an existing platform, escape vendor lock-in, or improve your website’s speed and security, going headless could be the answer.
-
