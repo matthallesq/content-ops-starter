@@ -7,7 +7,7 @@ excerpt: >-
   with local governments, many of which provide insight into their respective
   digital transformation programs
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/pic01.webp
   altText: Case study 2
   styles:
     self:
