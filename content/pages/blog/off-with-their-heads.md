@@ -1,6 +1,6 @@
 ---
 title: Off with their heads!
-slug: top-ten-lessons-we-learned
+slug: off-with-their-heads
 date: '2023-10-10'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
