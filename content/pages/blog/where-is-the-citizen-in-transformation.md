@@ -1,7 +1,7 @@
 ---
 title: Where is the citizen in transformation?
 slug: where-is-the-citizen-in-transformation
-date: '2022-02-16'
+date: '2022-02-01'
 excerpt: >-
   The work we’ve have been doing at Briarbird of late often involves engagements
   with local governments, many of which provide insight into their respective
