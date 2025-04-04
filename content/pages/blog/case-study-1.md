@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Is there value in Customer Journey Maps?
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
