@@ -1,7 +1,7 @@
 ---
 title: Is there value in Customer Journey Maps?
 slug: Is-there-value-in-customer-journey-maps
-date: '2019-01-09'
+date: ''
 excerpt: >-
   Having personally developed many customer journey maps (from both hypotheses
   and deep customer research) I’m curious why some clients seem to skip over
