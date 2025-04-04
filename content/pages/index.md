@@ -201,7 +201,6 @@ sections:
     type: ImageGallerySection
   - posts:
       - content/pages/blog/off-with-their-heads.md
-      - content/pages/blog/case-study-2.md
     showThumbnail: true
     showDate: true
     showAuthor: true
