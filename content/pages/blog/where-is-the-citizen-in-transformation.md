@@ -1,6 +1,6 @@
 ---
 title: Where is the citizen in transformation?
-slug: case-study-2
+slug: where-is-the-citizen-in-transformation
 date: '2022-02-16'
 excerpt: >-
   The work we’ve have been doing at Briarbird of late often involves engagements
