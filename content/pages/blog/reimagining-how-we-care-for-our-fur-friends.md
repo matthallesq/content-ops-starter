@@ -4,8 +4,9 @@ title: Re-imagining how we care for our fur friends
 date: '2015-02-12'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  In the not too distant future, telehealth (health care over telecommunication
+  services such as phone or internet) will be such an integral part of your
+  healthcare experience that telehealth will simply just be called healthcare.
 featuredImage:
   type: ImageBlock
   url: /images/pic05.webp
