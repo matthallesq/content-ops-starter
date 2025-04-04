@@ -64,10 +64,18 @@ styles:
   self:
     flexDirection: col
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+![](/images/pic04.webp)
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Recently I’ve been taking a more active interest in the sharing economy, particularly with the seemingly meteoric success of global start-up’s like Airbnb and Uber and the impact they are having in Australia.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+I’ve collected some current articles about the topic:
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+The Age about some of the [legal challenges](https://www.theage.com.au/education/the-sharing-economy-20140303-33ygj.html) facing the sharing economy. Great to see law firm [Ashurst Australia](https://www.ashurst.com/) teaming up with Melbourne Uni to provide the Sustainability Business Clinic where law students provide legal advice to start-up companies under the supervision and guidance of environmental lawyers.
+
+ABC News article about [the benefits of providing sharing economy services](https://www.abc.net.au/news/2014-08-05/airbnb-uber-proving-a-hit-as-australia-turns-to-sharing-economy/5650484) Airbnb, Uber proving a hit as Australians turn to ‘sharing economy’ to make extra money
+
+So what about Australian start ups?
+
+Chris Riedy [@chrisjriedy](https://twitter.com/chrisjriedy) has put together a great list in his blog post called [Collaborative consumption](http://chrisriedy.me/collaborative-consumption-in-australia/) in Australia which features a number of Australian businesses. The list is categorised as Product Service Systems (or PSS), Redistribution Markets and Collaborative Lifestyles
+
+
