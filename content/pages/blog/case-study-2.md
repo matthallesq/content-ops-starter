@@ -87,17 +87,24 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
+The work we’ve have been doing with [Briarbird](http://briarbird.com/) of late often involves engagements with local governments, many of which provide insight into their respective digital transformation programs.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+One of the surprising observations we’ve made is not all of these programs feature or prioritise the delivery of direct service benefits to citizens through digital channels, which I’m calling the last mile (I hope you don’t mind me borrowing the term from logistics/networking) rather they tend to focus on strategic objectives like obtaining a single view of the customer for some future yet to be determined benefit.
 
-![](/images/img-placeholder.svg)
+Ironically some of the councils with the smaller coffers seem to have the best is class digital experiences, they appear to have put the last mile first, in that their focus has been on improving the customer experience for citizens through their digital channels.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+I understand the foundation work and heavy lifting required to deliver a digital transformation program, there has to be substantial investments made into technology, processes and people to uplift the capabilities of council, converting paper-driven or legacy IT processes to digital workflows, adapting to new ways of working etc. However, in some cases, it would appear little of this is being done for the direct benefit of servicing citizens.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+That it not to say there aren’t clear benefits, in fact, councils have been making some of the most substantive improvements ever e.g. I recently spoke with a planning department that has been through a digital transformation and halved steps in the process resulting in reducing the time it takes to obtain a planning approval by 50 days!
 
-> Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices.
->
-> _By Gordon Red - Director of IT_
+However, if you're digital transformation program isn’t prioritising delivering services that improve the way citizens interact with council (aka the last mile), how will you know if your digital program is or will be a success?
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+The answer lies in blueprinting the digital transformation to include:
+
+1.  Conducting any forms of research you can to gather insight into the problems citizens face and take these into the design process
+
+2.  Uplifting human-centred design capability to understand and design customer journeys for both simple and complex business processes
+
+3.  Ensuring your platforms and vendors demonstrate value by prioritising the end to end delivery of services to citizens, starting at the procurement phase.
+
+I’m curious to know your thoughts about putting the last mile first in local government?
