@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/pic06.webp
-  altText: Case study 1
+  altText: 'journey maps '
   styles:
     self:
       borderRadius: large
