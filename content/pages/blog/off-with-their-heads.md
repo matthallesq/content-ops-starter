@@ -3,9 +3,10 @@ title: Off with their heads!
 slug: off-with-their-heads
 date: '2023-10-10'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Over the past few years, I’ve been observing and experimenting with the
+  nascent wave of front-end web technologies referred to as headless
+  (specifically the JAMstack) and considering their potential adoption for
+  startups, SMEs, and even large enterprises.
 featuredImage:
   url: /images/pic07.webp
   altText: Thumbnail
