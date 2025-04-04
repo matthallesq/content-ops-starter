@@ -1,7 +1,7 @@
 ---
 title: Is there value in Customer Journey Maps?
 slug: case-study-1
-date: ''
+date: '2022-01-09'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
