@@ -87,7 +87,9 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
-![](/images/pic01.webp)The work we’ve have been doing with [Briarbird](http://briarbird.com/) of late often involves engagements with local governments, many of which provide insight into their respective digital transformation programs.
+![](/images/pic01.webp)
+
+The work we’ve have been doing with [Briarbird](http://briarbird.com/) of late often involves engagements with local governments, many of which provide insight into their respective digital transformation programs.
 
 One of the surprising observations we’ve made is not all of these programs feature or prioritise the delivery of direct service benefits to citizens through digital channels, which I’m calling the last mile (I hope you don’t mind me borrowing the term from logistics/networking) rather they tend to focus on strategic objectives like obtaining a single view of the customer for some future yet to be determined benefit.
 
