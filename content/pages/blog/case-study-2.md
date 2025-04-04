@@ -8,7 +8,7 @@ excerpt: >-
   digital transformation programs
 featuredImage:
   url: /images/pic01.webp
-  altText: Case study 2
+  altText: 'TVC15 '
   styles:
     self:
       borderRadius: x-large
