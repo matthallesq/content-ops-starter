@@ -1,6 +1,6 @@
 ---
 title: Is there value in Customer Journey Maps?
-slug: case-study-1
+slug: Is-there-value-in-customer-journey-maps
 date: '2019-01-09'
 excerpt: >-
   Having personally developed many customer journey maps (from both hypotheses
