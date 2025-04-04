@@ -11,8 +11,8 @@ export default function PostLayout(props) {
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
     const { enableAnnotations = true } = site;
     const { title, date, author, markdown_content, bottomSections = [] } = page;
-    const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
-    const formattedDate = dayjs(date).format('YYYY-MM-DD');
+    const dateTimeAttr = dayjs(date).format('DD-MM-YYYY HH:mm:ss');
+    const formattedDate = dayjs(date).format('DD-MM-YYYY');
 
     return (
         <BaseLayout page={page} site={site}>
