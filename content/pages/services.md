@@ -1,6 +1,6 @@
 ---
 title: Services
-slug: careers
+slug: services
 sections:
   - title:
       text: A team that works closely together
