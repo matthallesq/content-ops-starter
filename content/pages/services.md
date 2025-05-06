@@ -56,7 +56,6 @@ sections:
       type: TitleBlock
     people:
       - content/data/person1.json
-      - content/data/person4.json
       - content/data/person5.json
       - content/data/person6.json
     variant: three-col-grid
