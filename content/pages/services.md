@@ -70,7 +70,7 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: Open position
       color: text-dark
       styles:
         self:
