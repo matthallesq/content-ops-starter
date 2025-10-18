@@ -62,7 +62,7 @@ sections:
     items:
       - title: Research
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Discovering insights from
         text: |
           Discovering insights from   
         image:
