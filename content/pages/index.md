@@ -64,7 +64,7 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Discovering insights from   
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
