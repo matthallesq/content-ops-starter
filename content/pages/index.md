@@ -60,7 +60,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Research
+      - title: Research and insights
         tagline: This is the tagline
         subtitle: Discovering insights from
         text: |
