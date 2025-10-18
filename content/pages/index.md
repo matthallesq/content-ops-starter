@@ -106,7 +106,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Experiment
+      - title: Run experiments
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
