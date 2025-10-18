@@ -83,7 +83,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Design
+      - title: Prototype
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
